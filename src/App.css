@@ -1,7 +1,7 @@
 /* General Styles */
 body {
   font-family: "Arial", sans-serif;
-  background: white;
+  background: linear-gradient(135deg, #6dd5ed, #2193b0);
   color: white;
   display: flex;
   justify-content: center;
